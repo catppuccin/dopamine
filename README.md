@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/preview.png"/>
+	<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/preview.webp"/>
 </p>
 
 ## Previews
