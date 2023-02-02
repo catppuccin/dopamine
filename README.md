@@ -19,11 +19,11 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/frappe.png"/>
+<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/latte.png"/>
+<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
