@@ -1,0 +1,69 @@
+{
+  "name": "Catppuccin Mocha Blue",
+  "creator": {
+    "name": "jayylmao",
+    "email": ""
+  },
+  "coreColors": {
+    "primaryColor": "#89b4fa",
+    "secondaryColor": "#89b4fa",
+    "accentColor": "#89b4fa"
+  },
+  "darkColors": {
+    "windowButtonIcon": "#89b4fa",
+    "hoveredItemBackground": "rgba(108, 112, 134, 0.05)",
+    "selectedItemBackground": "rgba(108, 112, 134, 0.1)",
+    "selectedItemText": "",
+    "tabText": "#a6adc8",
+    "selectedTabText": "#cdd6f4",
+    "mainBackground": "#1e1e2e",
+    "headerBackground": "#181825",
+    "footerBackground": "#181825",
+    "sidePaneBackground": "#11111b",
+    "primaryText": "#cdd6f4",
+    "secondaryText": "#a6adc8",
+    "breadcrumbBackground": "#585b70",
+    "sliderBackground": "#313244",
+    "sliderThumbBackground": "#cdd6f4",
+    "albumCoverLogo": "#11111b",
+    "albumCoverBackground": "#89b4fa",
+    "paneSeparators": "#313244",
+    "settingsSeparators": "#313244",
+    "contextMenuSeparators": "#313244",
+    "scrollBars": "#89b4fa",
+    "searchBox": "#11111b",
+    "searchBoxText": "#cdd6f4",
+    "searchBoxIcon": "#a6adc8",
+    "dialogBackground": "#11111b"
+  },
+  "lightColors": {
+    "windowButtonIcon": "#1e66f5",
+    "hoveredItemBackground": "rgba(0, 0, 0, 0.05)",
+    "selectedItemBackground": "rgba(156, 160, 176, 0.1)",
+    "selectedItemText": "",
+    "tabText": "#6c6f85",
+    "selectedTabText": "#4c4f69",
+    "mainBackground": "#eff1f5",
+    "headerBackground": "#e6e9ef",
+    "footerBackground": "#e6e9ef",
+    "sidePaneBackground": "#dce0e8",
+    "primaryText": "#4c4f69",
+    "secondaryText": "#6c6f85",
+    "breadcrumbBackground": "#acb0be",
+    "sliderBackground": "#ccd0da",
+    "sliderThumbBackground": "#eff1f5",
+    "albumCoverLogo": "#dce0e8",
+    "albumCoverBackground": "#1e66f5",
+    "paneSeparators": "transparent",
+    "settingsSeparators": "#ccd0da",
+    "contextMenuSeparators": "#ccd0da",
+    "scrollBars": "#1e66f5",
+    "searchBox": "#dce0e8",
+    "searchBoxText": "#4c4f69",
+    "searchBoxIcon": "#6c6f85",
+    "dialogBackground": "#dce0e8"
+  },
+  "options": {
+    "centerAlbumInfoText": false
+  }
+}
