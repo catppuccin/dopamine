@@ -12,22 +12,22 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/previews/preview.png"/>
+	<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/preview.png"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/previews/latte.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/previews/frappe.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/previews/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/dopamine/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
