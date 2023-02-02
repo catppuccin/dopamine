@@ -36,10 +36,16 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Choose a flavor and download your desired accent color:
+  - [🌻 Latte](https://github.com/jayylmao/dopamine-catppuccin/tree/main/latte)
+  - [🪴 Frappé](https://github.com/jayylmao/dopamine-catppuccin/tree/main/frappe)
+  - [🌺 Macchiato](https://github.com/jayylmao/dopamine-catppuccin/tree/main/macchiato)
+  - [🌿 Mocha](https://github.com/jayylmao/dopamine-catppuccin/tree/main/mocha)
+2. Open Dopamine.
+3. Open the hamburger menu in the top right.
+4. Click on "Settings".
+5. Click on "Add more themes".
+6. Your file manager will open the themes folder. Move your downloaded file to this folder.
 
 ## 💝 Thanks to
 
