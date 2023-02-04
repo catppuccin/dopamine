@@ -36,7 +36,7 @@
 
 ## Usage
 
-1. Choose a flavor and download your desired accent color:
+1. Choose a flavor from the list below and download the file corresponding to your desired accent color:
     - [🌻 Latte](https://github.com/jayylmao/dopamine-catppuccin/tree/main/latte)
     - [🪴 Frappé](https://github.com/jayylmao/dopamine-catppuccin/tree/main/frappe)
     - [🌺 Macchiato](https://github.com/jayylmao/dopamine-catppuccin/tree/main/macchiato)
