@@ -37,10 +37,10 @@
 ## Usage
 
 1. Choose a flavor and download your desired accent color:
-  - [🌻 Latte](https://github.com/jayylmao/dopamine-catppuccin/tree/main/latte)
-  - [🪴 Frappé](https://github.com/jayylmao/dopamine-catppuccin/tree/main/frappe)
-  - [🌺 Macchiato](https://github.com/jayylmao/dopamine-catppuccin/tree/main/macchiato)
-  - [🌿 Mocha](https://github.com/jayylmao/dopamine-catppuccin/tree/main/mocha)
+    - [🌻 Latte](https://github.com/jayylmao/dopamine-catppuccin/tree/main/latte)
+    - [🪴 Frappé](https://github.com/jayylmao/dopamine-catppuccin/tree/main/frappe)
+    - [🌺 Macchiato](https://github.com/jayylmao/dopamine-catppuccin/tree/main/macchiato)
+    - [🌿 Mocha](https://github.com/jayylmao/dopamine-catppuccin/tree/main/mocha)
 2. Open Dopamine.
 3. Open the hamburger menu in the top right.
 4. Click on "Settings".
