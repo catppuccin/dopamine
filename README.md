@@ -42,7 +42,7 @@
     - [🌺 Macchiato](https://github.com/jayylmao/dopamine-catppuccin/tree/main/macchiato)
     - [🌿 Mocha](https://github.com/jayylmao/dopamine-catppuccin/tree/main/mocha)
 2. Open Dopamine.
-3. Open the hamburger menu in the top right.
+3. Click on the menu button in the top right.
 4. Click on "Settings".
 5. Click on "Add more themes".
 6. Your file manager will open the themes folder. Move your downloaded file to this folder.
