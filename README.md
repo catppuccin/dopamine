@@ -46,6 +46,8 @@
 4. Click on "Settings".
 5. Click on "Add more themes".
 6. Your file manager will open the themes folder. Move your downloaded file to this folder.
+7. If you are using Latte, enable "Use light theme". Otherwise, leave it disabled.
+    - All Latte themes come with Mocha as the dark mode and all other themes come with Latte as the light mode. These will mostly work but the accent color will not change.
 
 ## 💝 Thanks to
 
