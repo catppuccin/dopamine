@@ -48,6 +48,9 @@
 6. Your file manager will open the themes folder. Move your downloaded file to this folder.
 7. If you are using Latte, enable "Use light theme". Otherwise, leave it disabled.
     - All Latte themes come with Mocha as the dark mode and all other themes come with Latte as the light mode. These will mostly work but the accent color will not change.
+    
+## Note on text readability
+At the time of writing, bright accent colors like Mocha's Yellow, Peach, and Pink may result in poor text visibility on popups (like when you hover over the menu button in the top right). There is currently no variable to change this, but Dopamine's creator has addressed this issue and will supposedly fix this by the next preview. This port will be updated when the time comes.
 
 ## 💝 Thanks to
 
