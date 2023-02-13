@@ -12,35 +12,35 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/preview.webp"/>
+	<img src="https://github.com/catppuccin/dopamine/raw/main/assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/latte.png"/>
+<img src="https://github.com/catppuccin/dopamine/raw/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/frappe.png"/>
+<img src="https://github.com/catppuccin/dopamine/raw/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/macchiato.png"/>
+<img src="https://github.com/catppuccin/dopamine/raw/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/jayylmao/dopamine-catppuccin/raw/main/assets/mocha.png"/>
+<img src="https://github.com/catppuccin/dopamine/raw/main/assets/mocha.png"/>
 </details>
 
 ## Usage
 
 1. Choose a flavor from the list below and download the file corresponding to your desired accent color:
-    - [🌻 Latte](https://github.com/jayylmao/dopamine-catppuccin/tree/main/latte)
-    - [🪴 Frappé](https://github.com/jayylmao/dopamine-catppuccin/tree/main/frappe)
-    - [🌺 Macchiato](https://github.com/jayylmao/dopamine-catppuccin/tree/main/macchiato)
-    - [🌿 Mocha](https://github.com/jayylmao/dopamine-catppuccin/tree/main/mocha)
+    - [🌻 Latte](https://github.com/catppuccin/dopamine/tree/main/latte)
+    - [🪴 Frappé](https://github.com/catppuccin/dopamine/tree/main/frappe)
+    - [🌺 Macchiato](https://github.com/catppuccin/dopamine/tree/main/macchiato)
+    - [🌿 Mocha](https://github.com/catppuccin/dopamine/tree/main/mocha)
 2. Open Dopamine.
 3. Click on the menu button in the top right.
 4. Click on "Settings".
