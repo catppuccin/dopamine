@@ -1,0 +1,69 @@
+{
+  "name": "Catppuccin Mocha Blue",
+  "creator": {
+    "name": "jayylmao",
+    "email": ""
+  },
+  "coreColors": {
+    "primaryColor": "#{{ palette.blue.hex }}",
+    "secondaryColor": "#{{ palette.blue.hex }}",
+    "accentColor": "#{{ palette.blue.hex }}"
+  },
+  "darkColors": {
+    "windowButtonIcon": "#{{ palette.blue.hex }}",
+    "hoveredItemBackground": "rgba(108, 112, 134, 0.05)",
+    "selectedItemBackground": "rgba(108, 112, 134, 0.1)",
+    "selectedItemText": "",
+    "tabText": "#{{ palette.subtext0.hex }}",
+    "selectedTabText": "#{{ palette.text.hex }}",
+    "mainBackground": "#{{ palette.base.hex }}",
+    "headerBackground": "#{{ palette.mantle.hex }}",
+    "footerBackground": "#{{ palette.crust.hex }}",
+    "sidePaneBackground": "#{{ palette.mantle.hex }}",
+    "primaryText": "#{{ palette.text.hex }}",
+    "secondaryText": "#{{ palette.subtext0.hex }}",
+    "breadcrumbBackground": "#{{ palette.surface2.hex }}",
+    "sliderBackground": "#{{ palette.overlay0.hex }}",
+    "sliderThumbBackground": "#{{ palette.text.hex }}",
+    "albumCoverLogo": "#{{ palette.crust.hex }}",
+    "albumCoverBackground": "#{{ palette.blue.hex }}",
+    "paneSeparators": "#{{ palette.surface0.hex }}",
+    "settingsSeparators": "#{{ palette.surface0.hex }}",
+    "contextMenuSeparators": "#{{ palette.surface0.hex }}",
+    "scrollBars": "#{{ palette.blue.hex }}",
+    "searchBox": "#{{ palette.crust.hex }}",
+    "searchBoxText": "#{{ palette.text.hex }}",
+    "searchBoxIcon": "#{{ palette.subtext0.hex }}",
+    "dialogBackground": "#{{ palette.crust.hex }}"
+  },
+  "lightColors": {
+    "windowButtonIcon": "#1e66f5",
+    "hoveredItemBackground": "rgba(0, 0, 0, 0.05)",
+    "selectedItemBackground": "rgba(156, 160, 176, 0.1)",
+    "selectedItemText": "",
+    "tabText": "#6c6f85",
+    "selectedTabText": "#4c4f69",
+    "mainBackground": "#eff1f5",
+    "headerBackground": "#e6e9ef",
+    "footerBackground": "#dce0e8",
+    "sidePaneBackground": "#e6e9ef",
+    "primaryText": "#4c4f69",
+    "secondaryText": "#6c6f85",
+    "breadcrumbBackground": "#acb0be",
+    "sliderBackground": "#9ca0b0",
+    "sliderThumbBackground": "#eff1f5",
+    "albumCoverLogo": "#dce0e8",
+    "albumCoverBackground": "#1e66f5",
+    "paneSeparators": "transparent",
+    "settingsSeparators": "#ccd0da",
+    "contextMenuSeparators": "#ccd0da",
+    "scrollBars": "#1e66f5",
+    "searchBox": "#dce0e8",
+    "searchBoxText": "#4c4f69",
+    "searchBoxIcon": "#6c6f85",
+    "dialogBackground": "#dce0e8"
+  },
+  "options": {
+    "centerAlbumInfoText": false
+  }
+}

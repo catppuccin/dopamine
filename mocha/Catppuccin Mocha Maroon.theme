@@ -37,7 +37,7 @@
     "dialogBackground": "#11111b"
   },
   "lightColors": {
-    "windowButtonIcon": "#e64553",
+    "windowButtonIcon": "#e995a3",
     "hoveredItemBackground": "rgba(0, 0, 0, 0.05)",
     "selectedItemBackground": "rgba(156, 160, 176, 0.1)",
     "selectedItemText": "",
@@ -53,11 +53,11 @@
     "sliderBackground": "#9ca0b0",
     "sliderThumbBackground": "#eff1f5",
     "albumCoverLogo": "#dce0e8",
-    "albumCoverBackground": "#e64553",
+    "albumCoverBackground": "#e995a3",
     "paneSeparators": "transparent",
     "settingsSeparators": "#ccd0da",
     "contextMenuSeparators": "#ccd0da",
-    "scrollBars": "#e64553",
+    "scrollBars": "#e995a3",
     "searchBox": "#dce0e8",
     "searchBoxText": "#4c4f69",
     "searchBoxIcon": "#6c6f85",
